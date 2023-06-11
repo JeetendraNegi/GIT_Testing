@@ -1,5 +1,17 @@
 
 .btn {
-    color: white;
-    background-color: blue;
+    width: 100px;
+    height: 25px;
+    border-radius: 5%;
+    margin: 10px;
+}
+
+.btn-success {
+    color: #ffffff;
+    background-color: #4bd15f;
+    border: 1px solid #55bf65fa;
+}
+
+div {
+    margin: 10px;
 }
